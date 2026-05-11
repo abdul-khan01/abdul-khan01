@@ -1,7 +1,5 @@
-
-<# 💫 About Me:
-# Hi, I'm Md 👋<br><br>💻 Aspiring Software Engineer & Full Stack Developer  <br>🌱 Currently learning React, Node.js, Express.js, MongoDB, and Python  <br>🚀 Building real-world projects and improving problem-solving skills  <br>📚 Interested in Web Development, APIs, Backend Systems, and Open Source  <br>🎯 Goal: Become a skilled Full Stack Developer and work on global tech projects  <br><br>## Tech Stack<br>- HTML<br>- CSS<br>- JavaScript<br>- React.js<br>- Node.js<br>- Express.js<br>- MongoDB<br>- Python<br>- Git & GitHub<br><br>## Current Projects<br>- Zerodha Clone<br>- Weather Forecast App<br>- REST API Projects<br>- Portfolio Website<br><br>## Learning<br>- Data Structures & Algorithms<br>- System Design<br>- Backend Development<br>- Database Management<br><br>## Connect With Me<br>📧 your-email@example.com  <br>💼 LinkedIn: your-linkedin-profile
-
+# 💫 About Me:
+# Hi, I'm Md 👋<br><br>💻 Aspiring Software Engineer & Full Stack Developer  <br>🌱 Currently learning React, Node.js, Express.js, MongoDB, and Python  <br>🚀 Building real-world projects and improving problem-solving skills  <br>📚 Interested in Web Development, APIs, Backend Systems, and Open Source  <br>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://portfolio-abdul-83.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/contactabdul-khan-15513521b/?skipRedirect=true) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Md2707032963223) 
@@ -19,17 +17,15 @@
 ---
 [![](https://komarev.com/ghpvc/?username=abdul-khan01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!--
-**abdul-khan01/abdul-khan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
