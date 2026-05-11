@@ -1,5 +1,8 @@
 # 💫 About Me:
-# Hi, I'm Md 👋<br><br>💻 Aspiring Software Engineer & Full Stack Developer  <br>🌱 Currently learning React, Node.js, Express.js, MongoDB, and Python  <br>🚀 Building real-world projects and improving problem-solving skills  <br>📚 Interested in Web Development, APIs, Backend Systems, and Open Source  <br>
+Aspiring Software Engineer & Full Stack Developer 💻  
+Learning React, Node.js, MongoDB, and Python 🌱  
+Building real-world projects and improving problem-solving skills 🚀  
+Interested in Web Development, APIs, and Backend Systems 📚
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://portfolio-abdul-83.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/contactabdul-khan-15513521b/?skipRedirect=true) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Md2707032963223) 
